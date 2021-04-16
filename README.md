@@ -6,6 +6,7 @@
   <img align="left" alt="Kevin Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br/>
+<br>
 
 Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP, também trabalho na área a um ano, comecei com C# .NET na prefeitura municipal de São José dos Campos, em seguida, entrei na BRQ e em conjunto com o banco Itaú, trabalho em full backend com Java!
 
