@@ -8,14 +8,13 @@
 <br/>
 <br>
 
-Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP, também trabalho na área a um ano, comecei com C# .NET na prefeitura municipal de São José dos Campos, em seguida, entrei na BRQ e em conjunto com o banco Itaú, trabalho em full backend com Java!
+Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP, também trabalho na área a um ano, comecei com C# .NET em uma Startup em São José dos Campos, no parque tecnológico, em seguida, entrei na BRQ e em conjunto com o banco Itaú, atualmente trabalhando em full backend com Java!
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="250" />
   
 - 💬 Se tiver alguma dúvida, estou aqui para ajudar!
 - 📫 Envie um e-mail para: kevin.melo@fatec.sp.gov.br
-- 📝 [Currículo](https://drive.google.com/file/d/1UlWmtqdJOexDa0QYiXuXFxEyuzpVW3ED/view?usp=sharing)
 
 **Meus conhecimentos:**  
 
