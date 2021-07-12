@@ -6,6 +6,7 @@
   <img align="left" alt="Kevin Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
  <a href='mailto:kevinalvesmelo@gmail.com'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 <br/>
 <br>
 
