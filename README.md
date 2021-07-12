@@ -5,6 +5,7 @@
 <a href="https://open.spotify.com/user/rjx82yc6a3ewk2uxq7bi1u6k8?si=fE7HqPxoQbmQ4dVFyFfRwA">
   <img align="left" alt="Kevin Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+ <a href='mailto:kevinalvesmelo@gmail.com'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 <br/>
 <br>
 
@@ -15,6 +16,10 @@ Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Des
   
 - 💬 Se tiver alguma dúvida, estou aqui para ajudar!
 - 📫 Envie um e-mail para: kevin.melo@fatec.sp.gov.br
+  
+  <p align='center'>
+ Atualmente focado e trabalhando com: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <br>
 
 **Meus conhecimentos:**  
 
@@ -32,3 +37,4 @@ Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Des
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kevingabrielmelo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U3mura&layout=compact&theme=tokyonight" width="412"></a>
