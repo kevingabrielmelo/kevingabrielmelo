@@ -10,17 +10,16 @@
 <br/>
 <br>
 
-Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP, também trabalho na área a um ano, comecei com C# .NET em uma Startup em São José dos Campos, no parque tecnológico, em seguida, entrei na BRQ e em conjunto com o banco Itaú, atualmente trabalhando em full backend com Java!
-
+Olá, eu sou Kevin Gabriel Alves de Melo, atualmente estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP, Trabalhando com Java + Spring e AWS na BRQ - Digital Solutions.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="250" />
   
 - 💬 Se tiver alguma dúvida, estou aqui para ajudar!
-- 📫 Envie um e-mail para: kevin.melo@fatec.sp.gov.br
+- 📫 Envie um e-mail para: kevinalvesmelo@gmail.com
   
   <p align='center'>
- Atualmente focado e trabalhando com: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <br>
+ Atualmente focado e trabalhando com: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+  Java e AWS <br>
 
 **Meus conhecimentos:**  
 
