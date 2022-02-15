@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/kevin-melo-1004/">
   <img align="left" alt="Kevin Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/rjx82yc6a3ewk2uxq7bi1u6k8?si=fE7HqPxoQbmQ4dVFyFfRwA">
-  <img align="left" alt="Kevin Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
  <a href='mailto:kevinalvesmelo@gmail.com'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 <br/>
